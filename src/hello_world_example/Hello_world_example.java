@@ -11,6 +11,10 @@ package hello_world_example;
  */
 public class Hello_world_example {
 
+    
+    public int add_numbers(int x, int y){ 
+        return x + y; 
+    }
     /**
      * @param args the command line arguments
      */
